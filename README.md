@@ -18,4 +18,5 @@ By default, Jekyll will watch for changes and rebuild your site for every change
 
 ## Docker Image Tags
 
-* `latest` ➜ `v141` (github-pages v141)
+* `latest` ➜ `v142` (github-pages v142)
+* `v141` (github-pages v141)
