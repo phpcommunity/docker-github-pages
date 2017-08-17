@@ -51,11 +51,13 @@ These errors are normal and occur because there is a conflict in your local `Gem
 
 ## Docker Image Tags
 
-* `latest` ➜ `v143` ([github-pages v143][])
+* `latest` ➜ `v155` ([github-pages v155][])
+* `v143` ([github-pages v143][])
 * `v142` ([github-pages v142][])
 * `v141` ([github-pages v141][])
 
 
+[github-pages v155]: https://github.com/github/pages-gem/releases/tag/v155
 [github-pages v143]: https://github.com/github/pages-gem/releases/tag/v143
 [github-pages v142]: https://github.com/github/pages-gem/releases/tag/v142
 [github-pages v141]: https://github.com/github/pages-gem/releases/tag/v141
